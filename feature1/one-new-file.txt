@@ -1,0 +1,3 @@
+this file was added in feature1 folder ,in local feature-1 branch
+
+this is second change that is being added , to make a new commit 
